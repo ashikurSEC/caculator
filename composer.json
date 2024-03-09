@@ -1,0 +1,16 @@
+{
+    "name": "ashikur_rahman/calculator",
+    "description": "Calculator make in PHP",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ashik"
+        }
+    ],
+    "require": {}
+}
